@@ -2,11 +2,10 @@ User B likes some of the  same movies as User A     .. and some other  movies
 
 User B is “similar” to User A
 
+Recommend movies that User B likes to User A(which movies User A haven't seen yet)
 
-Movies that User B likes  are “similar” to movies  that User A likes
-
-Recommend movies that User B likes to User A
-
-presentation
-
-test
+Topics:-
+recommendation-engine
+apriori-algorithm
+latent-factor-model
+nearest-neighbor-model
